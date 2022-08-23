@@ -1,14 +1,14 @@
-# IOG-DTE-Patching
-Operating System and 3rd party application patching for RSG PC's
+# IOG-DTE- Microsoft Windows Patching
+Microsoft Windows Operating System feature and security updates for RSG PC's
 
 IOG Desktop Engineering
 ===================================
 
 # Overview
-This service provides Windows, macOS and 3rd party application patching across all ~12.5k pc's within the LNRSG organisation
+This service provides Microsoft Windows Feature and Security updates & patching across all ~12.5k pc's within the LNRSG organisation
 
 # Process
-When new software is requested by one of our users, they would submit a request using the Software Catalogue owned by ITAM via Topdesk self-service. Within the software catalogue, they can search for existing software or request a new one. Once the apprpriate reviews have taken place for software license, compliance and security, 
+Microsoft Windows security updates are released every second Tuesday of every month of the year. Once the updates are released by Microsoft, we utilise Microsoft Windows Update for Business Rings managed by Microsoft EndPoint Manager. Ring 1 (Early Release) is deployed to the Insider team and lab devices for initial testing and feedback. If there are no major compatibility issues reported, the updates are released to Ring 2 (Global Release) on the following Monday. If updates require a reboot, users have up to 3 days until it is forced. During those 3 days, they will be prompted to schedule time of the reboot.
 
 # Feature Requests
 Please enter any feature requests into the issues section of this repository.
@@ -17,7 +17,10 @@ Please enter any feature requests into the issues section of this repository.
 Please enter any bugs into the issues section of this repository.
 
 # More Information
-More information for the end-to-end process of application packaging can be found here https://
+Ring 1 (Insider Team)
+Ring 2 (Global Release)
+
+Delivery Optimisation enabled
 
 # Team
 Craig Burnett, Operations Manager
@@ -27,15 +30,9 @@ Anup Bannadi, Systems Engineer
 Praveen Chandrashekar, Systems Engineer
 
 # Dependancies
-Topdesk Service for customer request and tracking
+Microsoft timely release of updates.
 
-ITAM required to review license agreements and vendor approval
-
-InfoSec required for security review of software
-
-MS Endpoint Manager for creation of new Intune package 
-
-MS Azure AD for group creation to distribute software to scoped devices/users
+Microsoft EndPoint Manager aka Intune (Azure services)
 
 # Indicators
 Availability - The service needs to be available 24 x 5 globally 
