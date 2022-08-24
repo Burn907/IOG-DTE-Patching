@@ -51,7 +51,7 @@ Accuracy - 90% of all patches to be successfully installed within 3 weeks of pat
 # Agreements
 Availability - 99% availability 24/7
 
-Response Time - 100% of all monthly patches to be targeted to all managed devices
+Response Time - 99.9% of all monthly patches to be targeted to all managed devices
 
 Accuracy - 90% of all patches to be successfully installed within 3 weeks of patch release
 
@@ -60,4 +60,4 @@ Availability	99%
 
 Response Time	100% automated target deployment by day 6 following patch release
 
-Accuracy	90% with 95% accuracy of original estimate
+Accuracy	90%
