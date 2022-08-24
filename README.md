@@ -54,20 +54,20 @@ Accuracy - The accuracy of the service is essential to ensure our desktop securi
 # Objectives
 Availability - 99.9% availability 24/7
 
-Response Time - 100% of all monthly patches to be targeted to all managed devices
+Response Time - 99.9% of all monthly patches to be targeted to all managed devices
 
 Accuracy - 90% of all patches to be successfully installed within 3 weeks of patch release
 
 # Agreements
 Availability - 99% availability 24/7
 
-Response Time - 99.9% of all monthly patches to be targeted to all managed devices
+Response Time - 99.9% of all monthly patches to be targeted to all managed devices by the 6th day following patch release 
 
 Accuracy - 90% of all patches to be successfully installed within 3 weeks of patch release
 
 Indicator	SLA
-Availability	99%
+Availability	95%
 
-Response Time	100% automated target deployment by day 6 following patch release
+Response Time	90% automated target deployment by day 6 following patch release
 
-Accuracy	90%
+Accuracy	75%
