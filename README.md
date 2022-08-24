@@ -57,5 +57,7 @@ Accuracy - 90% of all patches to be successfully installed within 3 weeks of pat
 
 Indicator	SLA
 Availability	99%
+
 Response Time	100% automated target deployment by day 6 following patch release
+
 Accuracy	90% with 95% accuracy of original estimate
