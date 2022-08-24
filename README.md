@@ -10,6 +10,16 @@ This service provides Microsoft Windows Feature and Security updates & patching 
 # Process
 Microsoft Windows security updates are released every second Tuesday of every month of the year. Once the updates are released by Microsoft, we utilise Microsoft Windows Update for Business Rings managed by Microsoft EndPoint Manager. Ring 1 (Early Release) is deployed to the Insider team and lab devices for initial testing and feedback. If there are no major compatibility issues reported, the updates are released to Ring 2 (Global Release) on the following Monday. If updates require a reboot, users have up to 3 days until it is forced. During those 3 days, they will be prompted to schedule time of the reboot.
 
+Microsoft release quality/security updates on second Tuesday every month
+RSG Insider Team receive updates on the following day (second Wednesday each month)
+Quality/Security updates are released to all remaining RSG devices on the following Monday 
+If updates require a reboot, users will have up to 3 days until it is forced. During those 3 days, they will be prompted to schedule the time of the reboot
+Deferral Period = 5 days
+Deadline = 2 days
+Grace Period = 1 day
+
+
+
 # Feature Requests
 Please enter any feature requests into the issues section of this repository.
 
