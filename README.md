@@ -17,8 +17,8 @@ Please enter any feature requests into the issues section of this repository.
 Please enter any bugs into the issues section of this repository.
 
 # More Information
-Ring 1 (Insider Team)
-Ring 2 (Global Release)
+Ring 1 (Insider Team) 79 Devices
+Ring 2 (Global Release) 12501 Devices
 
 Delivery Optimisation enabled
 
@@ -35,27 +35,27 @@ Microsoft timely release of updates.
 Microsoft EndPoint Manager aka Intune (Azure services)
 
 # Indicators
-Availability - The service needs to be available 24 x 5 globally 
+Availability - The service needs to be available 24 x 7 globally 
 
-Response Time - Triage is meant to be a quick turnaround time service so proper IPM and engineering resources can be spu nup and scheduled.
+Response Time - Automated Ring 1 and Ring 2 within a 4 week cycle
 
-Accuracy - The accuracy of the service us important to the Business to enable users to use software for the job and the benefit of the Business
+Accuracy - The accuracy of the service is essential to ensure our desktop security posture has the least exposure to known vulnerabilities 
 
 # Objectives
-Availability - 99.9% availability 8am - 5pm M-F excluding holidays.
+Availability - 99.9% availability 24/7
 
-Response Time - 90% of all triage requests will be completed within 3 business days.
+Response Time - 100% of all monthly patches to be targeted to all managed devices
 
-Accuracy - 90% of all triaged projects complete within 20% of triage estimation.
+Accuracy - 90% of all patches to be successfully installed within 3 weeks of patch release
 
 # Agreements
-Availability - 99% availability 8am - 5pm M-F excluding holidays.
+Availability - 99% availability 24/7
 
-Response Time - 75% of all triage requests will be completed within 5 business days.
+Response Time - 100% of all monthly patches to be targeted to all managed devices
 
-Accuracy - 75% of all triaged projects complete within 25% of triage estimation.
+Accuracy - 90% of all patches to be successfully installed within 3 weeks of patch release
 
 Indicator	SLA
 Availability	99%
-Response Time	75% within 5 bsuiness days
-Accuracy	75% with 75% accuracy of original estimate
+Response Time	100% automated target deployment by day 6 following patch release
+Accuracy	90% with 95% accuracy of original estimate
