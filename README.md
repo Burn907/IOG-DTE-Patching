@@ -65,7 +65,7 @@ Response Time - 99.9% of all monthly patches to be targeted to all managed devic
 
 Accuracy - 90% of all patches to be successfully installed within 3 weeks of patch release
 
-Indicator	SLA
+# Indicator	SLA
 Availability	95%
 
 Response Time	90% automated target deployment by day 6 following patch release
